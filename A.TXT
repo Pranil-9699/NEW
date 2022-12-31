@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>
+Question 2
+</title>
+</head>
+<style>
+.body{
+border:1px solid black;
+justify-content:center;
+width:700;
+margin-left:200px;
+padding:10px;
+}
+</style>
+<body>
+
+<div class="body">
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lable for="name">Enter Your Name</lable>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" id ="name">
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lable for="password">Enter Your Password</lable>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input id="password" type="text">
+<br>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which of The Following Operating System Have you Used?</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input checked type="checkbox">LINUX
+<input type="checkbox">Windows XP
+<input type="checkbox">Macintosh 8.0
+<br>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which of The Following Operating System Have you Used?</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input checked type="Radio">LINUX
+<input type="Radio">Windows XP
+<input type="Radio">Macintosh 8.0
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You Have Completed The Form&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <button>Submit</button>
+
+</div>
+
+</body>
+</html>
